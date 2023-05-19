@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.app {
+  display: grid;
+  place-items: center;
+  background-color: rgb(21, 21, 93);
+  min-height: 100vh;
+}
